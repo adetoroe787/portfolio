@@ -1,5 +1,9 @@
 {
   "name": "frontend",
+  "engines": {
+    "node": ">=16.10.0",
+    "npm": ">=7.24.0"
+  },
   "version": "0.1.0",
   "private": true,
   "dependencies": {
